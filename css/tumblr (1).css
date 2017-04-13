@@ -319,6 +319,9 @@ section.cta .cta-content {
   position: relative;
   z-index: 1;
 }
+	section.cta .cta-content h4 {
+		font-family: 'blok';
+	}
 section.cta .cta-content h2 {
 font-family: 'blok';
   margin-top: 0;
