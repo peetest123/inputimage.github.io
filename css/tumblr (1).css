@@ -326,6 +326,7 @@ section.cta .cta-content h2 {
 @media (min-width: 768px) {
   section.cta .cta-content h2 {
     font-size: 80px;
+	    font-family: 'FifteenRegular';
   }
 }
 section.cta .overlay {
