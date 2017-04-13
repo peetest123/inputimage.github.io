@@ -17,6 +17,10 @@ body {
   height: 100%;
   width: 100%;
 }
+@font-face {
+        font-family: 'blok';
+        src: url("https://peetest123.github.io/inputimage.github.io/Blok.ttf");
+}
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif','PressStart2PRegular','RetroscapeRegular', 'FifteenRegular','blok';
 }
