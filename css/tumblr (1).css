@@ -316,6 +316,7 @@ section.cta .cta-content {
   z-index: 1;
 }
 section.cta .cta-content h2 {
+ font-family: 'RetroscapeRegular'; 
   margin-top: 0;
   margin-bottom: 25px;
   color: white;
