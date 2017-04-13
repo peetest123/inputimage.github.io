@@ -5,7 +5,7 @@
   letter-spacing: 1px;
 }
 .body-font {
-  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif','Press Start 2P','PressStart2PRegular','RetroscapeRegular';
+  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif','Press Start 2P','PressStart2PRegular','RetroscapeRegular','blok';
 }
 .alt-font {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
@@ -316,7 +316,7 @@ section.cta .cta-content {
   z-index: 1;
 }
 section.cta .cta-content h2 {
-font-family: 'FifteenRegular'; 
+font-family: 'blok';
   margin-top: 0;
   margin-bottom: 25px;
   color: white;
@@ -326,7 +326,7 @@ font-family: 'FifteenRegular';
 @media (min-width: 768px) {
   section.cta .cta-content h2 {
     font-size: 80px;
-	    font-family: 'FifteenRegular';
+	    font-family: 'blok';
   }
 }
 section.cta .overlay {
