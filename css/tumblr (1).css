@@ -324,6 +324,12 @@ section.cta .cta-content h4 {
 	font-size: 40px;
         color: #14dc39;
 }
+	section.cta .cta-content h1 {
+	font-family: 'blok';
+	font-size: 40px;
+        color: #14dc39;
+}
+se
 section.cta .cta-content h2 {
 font-family: 'blok';
   margin-top: 0;
