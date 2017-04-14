@@ -312,7 +312,7 @@ section.cta {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bg-cta.jpg');
+  background-image: url('https://i.kinja-img.com/gawker-media/image/upload/t_original/1485400206289950502.gif');
   padding: 250px 0;
 }
 section.cta .cta-content {
