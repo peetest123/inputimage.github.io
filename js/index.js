@@ -2,7 +2,7 @@ $(document).ready(function()
 {
     $('.contact').click(function (e) 
     {
-        $('.card').toggleClass('active');
+        $('.blacks').toggleClass('active');
         $('.banner').toggleClass('active');
         $('.photo').toggleClass('active');
         $('.social-media-banner').toggleClass('active');
