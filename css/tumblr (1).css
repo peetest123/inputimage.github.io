@@ -334,13 +334,14 @@ section.cta .cta-content h2 {
 font-family: 'blok';
   margin-top: 0;
   margin-bottom: 25px;
-  color: #14dc39;
+  color: red;
   max-width: 450px;
   font-size: 50px;
 }
 @media (min-width: 768px) {
   section.cta .cta-content h2 {
     font-size: 80px;
+	  color: red;
 	    font-family: 'blok';
   }
 }
