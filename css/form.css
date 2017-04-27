@@ -14,10 +14,12 @@ padding:0 50px 15px;
 margin-top:20px;
 box-shadow:0 0 15px;
 border-radius:6px;
-float:left
+float:left;
+background-color: pink;
 }
 #main h1{
 margin-top:40px
+  color:black;
 }
 hr{
 margin-top:-5px
