@@ -1,3 +1,11 @@
+.vinylcontainer {
+  max-width: 510px;
+  min-width: 324px;
+  margin: 50px auto 0px;
+  background-color: #fff;
+  border: 1px solid #cfcfcf;
+  border-bottom: 3px solid #ccc;
+}
 .vinyl{
   width: 100%;
   margin: 0 0 1em 0;
