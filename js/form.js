@@ -28,7 +28,7 @@ var linebreak = document.createElement('br');
 createform.appendChild(linebreak);
 
 var emaillabel = document.createElement('label'); // Create Label for E-mail Field
-emaillabel.innerHTML = "Your Email : ";
+emaillabel.innerHTML = "philipbarton815@gmail.com : ";
 createform.appendChild(emaillabel);
 
 var emailelement = document.createElement('input'); // Create Input Field for E-mail
