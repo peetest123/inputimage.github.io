@@ -1,11 +1,6 @@
 
 
 
-.row {
-  width: 100%;
-  margin: 0 0 1em 0;
-  padding: 0 2.5em;
-}
 .row.header {
   padding: 1.5em 2.5em;
   border-bottom: 1px solid #ccc;
